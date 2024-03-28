@@ -1,0 +1,16 @@
+5 Data types and its uses.
+
+1.Floating Point (float)	
+  Numeric data type for numbers with fractions
+
+2.Character (char)
+  Single letter, digit, punctuation mark, symbol, or blank space
+
+3.String (str or text)	
+  Sequence of characters, digits, or symbols—always treated as text
+
+4.Boolean (bool)	
+  True or false values
+
+5.Integer (int)	
+   Numeric data type for numbers without fractions
